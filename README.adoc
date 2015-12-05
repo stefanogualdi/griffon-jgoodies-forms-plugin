@@ -1,0 +1,5 @@
+= griffon-jgoodies-forms-plugin
+
+:project-name: griffon-jgoodies-forms-plugin
+
+Porting to Griffon 2.5.0 of https://github.com/griffon/griffon-jgoodies-forms-plugin
